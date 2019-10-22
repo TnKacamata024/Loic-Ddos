@@ -2,8 +2,8 @@
 # Tools Ddos Loic #
 # Change Ddos Trojan #
 
-# Happy for Attack #
-# Don't Forget Say Bismillah #
+# Happy for Attack :) #
+# Don't Forget to read Bismillah #
 
 $ pkg update && pkg upgrade
 $ pkg install python
