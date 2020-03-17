@@ -16,4 +16,4 @@ $ pkg install git
 $ git clone https://github.com/TnKacamata024/Loic-Ddos
 $ cd Loic-Ddos
 $ ls
-$ python2 Loic.py
+$ python2 Locic.py
